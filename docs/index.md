@@ -9,7 +9,7 @@ correspondingly named header file (e.g., `#include <igl/func.h>`).
 The _core_ library only depends on the standard template library (`std::`) and 
 Eigen. These functions reside directly the [`igl::` namespace](./namespaceigl.html)
 
-Functions with further dependencies reside in a corresonding sub-namespace. For
+Functions with further dependencies reside in a corresponding sub-namespace. For
 example, the function `igl::spectra::lscm` depends on the Spectra library so it
 resides in the [`igl::spectra::` namespace](./namespaceigl_1_1spectra.html).
 
